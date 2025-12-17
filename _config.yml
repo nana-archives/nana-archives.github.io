@@ -7,12 +7,13 @@ baseurl: ""
 url: "https://nana-archives.github.io"
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
+#video: mountains.mp4 # add banner video. Add your video file to the folder video
+banner-image: my-bg.jpeg
 banner-title: Notes & Archive
 banner-desc: moments, ideas, and sound
 
 # Author settings
-author-pic: face.jpg # your photo
+author-pic: face.png
 author-name: Nana Yu
 about-author: >
   I keep what matters in small forms—sentences, images, playlists—and revisit them when I need clarity.
