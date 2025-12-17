@@ -1,25 +1,24 @@
 logo: # add logo name
 title: Nana Yu
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >
+  A personal archive of moments, ideas, and the music that keeps them alive.
 permalink: ':title/'
 baseurl: ""
 url: "https://nana-archives.github.io"
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: Notes & Archive
+banner-desc: moments, ideas, and sound
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: Nana
-about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+author-name: Nana Yu
+about-author: >
+  I keep what matters in small forms—sentences, images, playlists—and revisit them when I need clarity.
+email: boyeongyu07@gmail.com
+phone: 
+website: https://nana-archives.github.io/
 
 # Social link
 google_url:    # add url link
