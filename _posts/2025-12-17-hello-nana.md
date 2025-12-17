@@ -13,7 +13,7 @@ tag: [Log, Daily]
 복잡한 코드들 사이에서 조금 헤맸지만, 결국 내 이름이 걸린 공간을 완성했다.
 
 이곳에는 앞으로 내가 찍은 **사진**들과 공부하고 있는 **화학 이야기**,
-그리고 내가 아끼는 **수집품(Collections)**들을 하나씩 채워 넣을 생각이다.
+그리고 내가 아끼는 수집품들을 하나씩 채워 넣을 생각이다.
 
 > "A journey of a thousand miles begins with a single step."
 
