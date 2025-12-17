@@ -2,7 +2,7 @@
 layout: post
 title: "Nana's Archive, 첫 번째 기록"
 img: /img/my-bg.jpeg
-date: 2025-12-17 23:15:00 +0900
+date: 2025-12-17 23:14:00 +0900
 description: 나의 첫 번째 아카이브 테스트.
 tag: [Log, Daily]
 ---
